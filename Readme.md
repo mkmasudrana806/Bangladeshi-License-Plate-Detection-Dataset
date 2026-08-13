@@ -18,27 +18,19 @@ After merging, duplicate inspection, annotation verification, and correction of 
 
 ### Clean Dataset
 
-Merged and manually refined dataset after annotation correction.
-
-🔗 https://drive.google.com/file/d/1gSsMpfNEqHwJRd_wk_3y2WezsjQTqgDJ/view?usp=sharing
+Merged and manually refined dataset after annotation correction. [Click](https://drive.google.com/file/d/1gSsMpfNEqHwJRd_wk_3y2WezsjQTqgDJ/view?usp=sharing)
 
 ### Proposed Augmentation Dataset
 
-Training set augmented using the proposed adverse-condition augmentation framework.
-
-🔗 https://drive.google.com/file/d/1G2pMB-_pxQOcp5mxns8mtyRD4jt5l5oM/view?usp=sharing
+Training set augmented using the proposed adverse-condition augmentation framework. [Click](https://drive.google.com/file/d/1G2pMB-_pxQOcp5mxns8mtyRD4jt5l5oM/view?usp=sharing)
 
 ### Traditional Augmentation Dataset
 
-Training set augmented using conventional augmentation techniques.
-
-🔗 https://drive.google.com/file/d/1iLM5hgouDyzYAUUb2FeBaSfE973JrV4b/view?usp=sharing
+Training set augmented using conventional augmentation techniques. [Click](https://drive.google.com/file/d/1iLM5hgouDyzYAUUb2FeBaSfE973JrV4b/view?usp=sharing)
 
 ### Adverse-Condition Test Dataset
 
-Independent test set containing fog, rain, shadow, glare, night, and motion-blur conditions used for augmentation benchmarking.
-
-🔗 https://drive.google.com/file/d/1OdvWovMzVzTpeBgSWtaMSpRjK3V5x_W6/view?usp=sharing
+Independent test set containing fog, rain, shadow, glare, night, and motion-blur conditions used for augmentation benchmarking. [Click](https://drive.google.com/file/d/1OdvWovMzVzTpeBgSWtaMSpRjK3V5x_W6/view?usp=sharing)
 
 ## Experimental Usage
 
@@ -56,3 +48,6 @@ All models were evaluated on the same Adverse-Condition Test Dataset ([Click](ht
 
 All detection architectures were trained and evaluated using the Proposed Augmentation Dataset ([Click](https://drive.google.com/file/d/1G2pMB-_pxQOcp5mxns8mtyRD4jt5l5oM/view?usp=sharing)). 
 
+### Recognition Benchmark
+
+Recognition 730 Images ([Click](https://drive.google.com/file/d/17Soc8X9XRAmsbgLsx1ntOlOqE_Ds2_8_/view?usp=sharing))
